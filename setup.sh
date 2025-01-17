@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/tcsh
 
 mv .tcshrc ~/
 source ~/.tcshrc
