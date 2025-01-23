@@ -11,6 +11,4 @@ if ~isdeployed
   disp(['Adding: ' userpath]);
   addpath(genpath(userpath));
 
-  clear
-
 end
